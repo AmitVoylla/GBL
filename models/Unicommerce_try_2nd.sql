@@ -5,4 +5,5 @@
     ]
 )}}
 
-SELECT * from public.voylla_in_unicommerce_v3_shelfwise_inventory 
+SELECT * from public.voylla_in_unicommerce_v3_shelfwise_inventory
+where  
